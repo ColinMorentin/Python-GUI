@@ -1,2 +1,2 @@
 # Python-GUI
-A selected simple python basic GUI programs
+A selected simple python GUI programs
